@@ -1,5 +1,5 @@
-It was a task (assignment) for Natural Language Processing Course. 
-The task was to implement a named entity recognizer using Conditional Random Fields (CRFs) in Python.
+It was a task (assignment) for Natural Language Processing Course (Spring 2020). 
+The task was to implement a Named Entity Recognizer (NER) using Conditional Random Fields (CRFs) in Python.
 
 The main steps followed to achieve the goal of this assignment were: 
 
